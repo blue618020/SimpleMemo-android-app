@@ -3,7 +3,7 @@
 📝 <b> tistory : </b> https://blue618020.tistory.com/88
 
 ### 🔍 학습 내용
--  여러개의 리스트를 RecyclerView를 사용하여 화면에 띄우기
+-  ArrayList를 RecyclerView를 사용하여 화면에 띄우기
 
 ### 💻 실습
 #### 1. .xml 
